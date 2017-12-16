@@ -1,0 +1,8 @@
+{
+  "delay": "500",
+  "ignore": ["server/**/*.spec.ts"],
+  "verbose": true,
+  "exec": "ts-node server/server.app.ts",
+  "watch": ["server"],
+  "ext": "ts"
+}
